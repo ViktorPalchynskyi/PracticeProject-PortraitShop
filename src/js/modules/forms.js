@@ -8,8 +8,8 @@ const forms = () => {
    // checkNumInputs('input[name="user_phone"]');
 
    const message = {
-      loading: 'Загрузка',
-      success: 'Спасибо! Скоро с вами свзяжутся',
+      loading: 'Загрузка.',
+      success: 'Спасибо! Скоро с вами свзяжутся.',
       failure: 'Что-то пошло не так...',
       spinner: 'assets/img/spinner.gif',
       ok: 'assets/img/ok.png',
